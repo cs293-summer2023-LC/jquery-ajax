@@ -1,4 +1,22 @@
-/* Sample AJAX calls   */
+/* Sample event listener using jQuery */
+/*
+$("#myButton").click(myFunction);
+
+or
+
+$("#myButton").click(function(){
+
+    //code here
+
+});
+
+same as:
+
+document.getElementById("myButton").addEventListener("click", myFunction);
+*/
+
+
+/* Sample AJAX call using jQuery   */
 /*
 
 function myFunction(){
@@ -22,6 +40,9 @@ function myFunction(){
                         
     });
 }
+
+
+
 
 */
 
