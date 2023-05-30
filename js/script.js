@@ -29,15 +29,10 @@ function myFunction(){
         // data values could be arguments passed to the function
     })
         .done(function(response) {
-            //response (or whatever you want to call the variable) is the API response
-            
+            //response (or whatever you want to call the variable) is the API response          
             // first console.log the response to see it
             console.log(response);
-
-            // while the AJAX call is asynchronous, code in this section is back to synchronous.
-
-
-                        
+            // while the AJAX call is asynchronous, code in this section is back to synchronous.                       
     });
 }
 
